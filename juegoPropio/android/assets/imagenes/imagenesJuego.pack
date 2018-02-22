@@ -1,0 +1,110 @@
+
+imagenesJuego.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+goal
+  rotate: false
+  xy: 1, 465
+  size: 200, 475
+  orig: 200, 475
+  offset: 0, 0
+  index: -1
+aiming
+  rotate: false
+  xy: 1, 103
+  size: 111, 360
+  orig: 111, 360
+  offset: 0, 0
+  index: -1
+runRight3
+  rotate: false
+  xy: 203, 621
+  size: 105, 319
+  orig: 105, 319
+  offset: 0, 0
+  index: -1
+runLeft2
+  rotate: false
+  xy: 310, 621
+  size: 105, 319
+  orig: 105, 319
+  offset: 0, 0
+  index: -1
+runRight1
+  rotate: false
+  xy: 417, 621
+  size: 105, 319
+  orig: 105, 319
+  offset: 0, 0
+  index: -1
+runRight4
+  rotate: false
+  xy: 524, 621
+  size: 105, 319
+  orig: 105, 319
+  offset: 0, 0
+  index: -1
+runLeft3
+  rotate: false
+  xy: 631, 621
+  size: 105, 319
+  orig: 105, 319
+  offset: 0, 0
+  index: -1
+standing
+  rotate: false
+  xy: 738, 621
+  size: 105, 319
+  orig: 105, 319
+  offset: 0, 0
+  index: -1
+runRight2
+  rotate: false
+  xy: 845, 621
+  size: 105, 319
+  orig: 105, 319
+  offset: 0, 0
+  index: -1
+jumping
+  rotate: false
+  xy: 114, 144
+  size: 105, 319
+  orig: 105, 319
+  offset: 0, 0
+  index: -1
+runLeft4
+  rotate: false
+  xy: 221, 300
+  size: 105, 319
+  orig: 105, 319
+  offset: 0, 0
+  index: -1
+runLeft1
+  rotate: false
+  xy: 328, 300
+  size: 105, 319
+  orig: 105, 319
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 221, 201
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+shoot
+  rotate: false
+  xy: 952, 885
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
