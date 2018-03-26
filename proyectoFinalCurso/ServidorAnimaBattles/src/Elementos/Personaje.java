@@ -169,8 +169,17 @@ public class Personaje
                 case 3:bono=-10;break;
                 case 4:bono=-5;break;
             }
+        }else{
+            if(a%5==0)
+            {
+                bono=((a/5)-1)*15;
+            }else if(a%5<3){
+                bono=((a/5)-1)*15+5;
+            }else{
+                bono=((a/5)-1)*15+10;
+            }
         }
-        a+=-5;
+        /*a+=-5;
         
         while(a>0)
         {
@@ -184,7 +193,7 @@ public class Personaje
                 bono+=calculo;
             }else bono+=15;
             a+=-5;
-        }
+        }*/
         return bono;
     }
 }
